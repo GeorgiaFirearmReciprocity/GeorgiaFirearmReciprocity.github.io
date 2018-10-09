@@ -44,8 +44,8 @@ In some documents involving correspondance with private individuals, I have reda
 
 ### Other Correspondence
 * [Response to Probate Judge (2007)](20071128_Georgia_Probate_Judge_Cason_Inquiry.pdf)
-* [Regarding New Hampshire, South Carolina (2012)](20121105_Georgia_New_Hampshire_Reciprocity_South_Carolina_No_Reciprocity.pdf)
-* [Georgia and Ohio (Draft)(2012)](20120103_Georgia_Ohio_Memo.pdf)
+* [Regarding New Hampshire & South Carolina (2012)](20121105_Georgia_New_Hampshire_Reciprocity_South_Carolina_No_Reciprocity.pdf)
+* [Georgia and Ohio (Draft) (2012)](20120103_Georgia_Ohio_Memo.pdf)
 * [Georgia and North Carolina (2015)](20150504_Georgia_North_Carolina_Reciprocity.pdf)
 * [Georgia and South Dakota (2016)](20161222_Georgia_South_Dakota_Reciprocity.pdf)
 * [Georgia Inquiry Template (2017)](20170405_Georgia_Inquiry_Template.pdf)
@@ -53,14 +53,14 @@ In some documents involving correspondance with private individuals, I have reda
 * [Georgia and Arizona (Inquiry) (2017)](20170412_Georgia_Arizona_Inquiry.pdf)
 * [Georgia and Colorado (Inquiry) (2017)](20170412_Georgia_Colorado_Inquiry.pdf)
 * [Georgia and Colorado (2017)](20170509_Georgia_Colorado_Reciprocity.pdf)
-* [Georgia and Florida (Inquiry) (2017) ](20170412_Georgia_Florida_Inquiry.pdf)
+* [Georgia and Florida (Inquiry) (2017)](20170412_Georgia_Florida_Inquiry.pdf)
 * [Georgia and Idaho (2017)](20170720_Georgia_Idaho_Reciprocity.pdf)
 * [Georgia and Minnesota (No Reciprocity) (2017)](20170720_Georgia_Minnesota_No_Reciprocity.pdf)
-* [Georgia and Virginia (Discussion)(2017)](20170331_Georgia_Virginia_Discussion.pdf)
+* [Georgia and Virginia (Discussion) (2017)](20170331_Georgia_Virginia_Discussion.pdf)
 * [Georgia and West Virginia (2018)](20180711_Georgia_West_Virginia_Reciprocity.pdf)
 * [Georgia and Wisconsin (Inquiry) (2017)](20170412_Georgia_Wisconsin_Inquiry.pdf)
-* [Miscellaneous Public Inquiry Response 1](Misc_Public_Inquiries.pdf)
-* [Miscellaneous Public Inquiry Response 2](Misc_Public_Inquiries_2.pdf)
+* [Miscellaneous Public Inquiry Responses 1](Misc_Public_Inquiries.pdf)
+* [Miscellaneous Public Inquiry Responses 2](Misc_Public_Inquiries_2.pdf)
 
 
 ### Other Miscellaneous Documents
