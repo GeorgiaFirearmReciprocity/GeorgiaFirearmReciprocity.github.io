@@ -9,9 +9,9 @@ For general information about Georgia's Firearm Reciprocity, please see the foll
 ## Purpose of this Site
 After researching Georgia's firearm license reciprocity laws and discussing this topic with various lawyers and law enforcement officials, I realized that there are two common topics of confusion:
 
-* Does Georgia recognize concealed carry licenses validly issued by other states to non-residents?
+* **Does Georgia recognize concealed carry licenses validly issued by other states to non-residents?**
   * Example: Does Georgia recognize a valid New Hampshire "[Non-Resident Pistol/Revolver License](https://www.nh.gov/safety/divisions/nhsp/ssb/permitslicensing/plupr.html)" issued to a Massachusetts resident?
-* Does Georgia recognize concealed carry licenses validly issued by other states to persons under the age of 21?
+* **Does Georgia recognize concealed carry licenses validly issued by other states to persons under the age of 21?**
   * Example: Does Georgia recognize a valid Utah "[Provisional Concealed Firearm Permit](https://bci.utah.gov/information-about-the-provisional-concealed-firearm-permit/)" issued to a 19-year-old?
 
 In an attempt to answer these two questions, I submitted an Open Records Request with the Georgia Attorney General's Office in September 2018. The documents that I have received in response to my request may help to shed light on these questions.
