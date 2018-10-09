@@ -16,7 +16,7 @@ After researching Georgia's firearm license reciprocity laws and discussing this
 
 In an attempt to answer these two questions, I submitted an Open Records Request with the Georgia Attorney General's Office in September 2018. The documents that I have received in response to my request may help to shed light on these questions.
 
-Specifically, [one document from June 2017](20170607_Georgia_New_Hampshire_Reciprocity.pdf) "\[confirms] that Georgia will continue to recognize New Hampshire's resident and non-resident concealed carry licenses," and [another document from May 2017](20170502_Georgia_Utah_Reciprocity.pdf) states that Georgia "recognizes" Utah's "Provisional Concealed Firearm Permit," issued to 18-20 year olds.
+**Specifically, [one document from June 2017](20170607_Georgia_New_Hampshire_Reciprocity.pdf) "\[confirms] that Georgia will continue to recognize New Hampshire's resident and non-resident concealed carry licenses," and [another document from May 2017](20170502_Georgia_Utah_Reciprocity.pdf) states that Georgia "recognizes" Utah's "Provisional Concealed Firearm Permit," issued to 18-20 year olds.**
 
 As most of these documents were not previously available online, the purpose of this site is to make them available. These documents include reciprocity agreements and correspondence between the Georgia Attorney General's Office and other state attorneys general, government officials, and private individuals. There are also documents from *GeorgiaCarry.Org et. al. v. Christopher Carr*, a court case pertaining to reciprocity with Virginia, which has since been dismissed after Georgia's reciprocity law was amended.
 
