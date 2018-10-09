@@ -25,7 +25,7 @@ In some documents involving correspondance with private individuals, I have reda
 ## Documents (Click on Document Name to View)
 ### Documents Directly Pertaining to Above Two Questions
 * [Correspondence from Georgia Department of Law to New Hampshire Department of Safety (2017)](20170607_Georgia_New_Hampshire_Reciprocity.pdf)
-  * *"I want to confirm that Georgia will continue to recognize New Hampshire's resident and non-resident concealed carry licenses."* — Assistant Attorney General, State of Georgia, June 7, 2017
+  * *"I want to confirm that Georgia will continue to recognize New Hampshire's resident and non-resident concealed carry licenses."* — Assistant Attorney General, Georgia Department of Law, June 7, 2017
  
 * [Correspondence from Georgia Department of Law to North Carolina Department of Justice (2018)](20180711_Georgia_North_Carolina_Reciprocity.pdf)
   * *"Georgia will recognize the weapons carry licenses, both resident and non-resident, from any other state provided that that state likewise recognizes a Georgia license."* — Assistant Attorney General, Georgia Department of Law, July 11, 2018
