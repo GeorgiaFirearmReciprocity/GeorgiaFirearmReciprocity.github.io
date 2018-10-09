@@ -16,18 +16,32 @@ After researching Georgia's [firearm license reciprocity laws](https://dps.georg
 
 In an attempt to answer these two questions, I submitted an Open Records Request with the Georgia Attorney General's Office in September 2018. The documents that I have received in response to my request may help to shed light on these questions.
 
-Specifically, [one document from June 2017](https://georgiafirearmreciprocity.github.io/20170607_Georgia_New_Hampshire_Reciprocity.pdf) "\[confirms] that Georgia will continue to recognize New Hampshire's resident and non-resident concealed carry licenses," and [another document from May 2017](https://georgiafirearmreciprocity.github.io/20170502_Georgia_Utah_Reciprocity.pdf) states that Georgia "recognizes" Utah's "Provisional Concealed Firearm Permit," issued to 18-20 year olds.
+Specifically, [one document from June 2017](20170607_Georgia_New_Hampshire_Reciprocity.pdf) "\[confirms] that Georgia will continue to recognize New Hampshire's resident and non-resident concealed carry licenses," and [another document from May 2017](20170502_Georgia_Utah_Reciprocity.pdf) states that Georgia "recognizes" Utah's "Provisional Concealed Firearm Permit," issued to 18-20 year olds.
 
 As most of these documents were not previously available online, the purpose of this site is to make them available. These documents include reciprocity agreements and correspondence between the Georgia Attorney General's Office and other state attorneys general, government officials, and private individuals. There are also documents from *GeorgiaCarry.Org et. al. v. Christopher Carr*, a court case pertaining to reciprocity with Virginia, which has since been dismissed after Georgia's reciprocity law was amended.
 
 In some documents involving correspondance with private individuals, I have redacted some information using conspicuous black boxes in the interest of privacy. Otherwise, these documents have not been altered.
 
 ## Documents
-*
-*
-*
-*
-*
+### Documents Directly Pertaining to Above Two Questions
+* [Correspondence from Georgia Department of Law to New Hampshire Department of Safety (2017)](20170607_Georgia_New_Hampshire_Reciprocity.pdf)
+  * *"I want to confirm that Georgia will continue to recognize New Hampshire's resident and non-resident concealed carry licenses."* — Assistant Attorney General, State of Georgia, June 7, 2017
+ 
+* [Correspondence from Georgia Department of Law to North Carolina Department of Justice (2018)](20180711_Georgia_North_Carolina_Reciprocity.pdf)
+  * *"Georgia will recognize the weapons carry licenses, both resident and non-resident, from any other state provided that that state likewise recognizes a Georgia license."* — Assistant Attorney General, Georgia Department of Law, July 11, 2018
+ 
+* [Correspondence from Georgia Department of Law to Utah Department of Public Safety (2017)](20170502_Georgia_Utah_Reciprocity.pdf)
+  * *"Georgia \[recognizes] ... both \[of] Utah's Concealed Firearm \[Permits.]"* — Assistant Attorney General, Georgia Department of Law, May 2, 2017
+ 
+* [Correspondence from Georgia Department of Law to State Representative Jason Spencer (2012)](20121116_Georgia_New_Hampshire_Reciprocity.pdf)
+  * *"Georgia does not look behind the requirements for concealed carry in the states it recognizes."* — Assistant Attorney General, Georgia Department of Law, November 15, 2012
+
+
+### Formal Reciprocity Agreements
+* [Reciprocity agreement between Georgia and Tennessee (1998)](19980406_Georgia_Tennessee_Reciprocity_Agreement.pdf)
+* [Reciprocity agreement between Georgia and Kentucky (1998)](19980828_Georgia_Kentucky_Reciprocity_Agreement.pdf)
+* [Reciprocity agreement between Georgia and Texas (2004)](20041129_Georgia_Texas_Reciprocity_Agreement.pdf)
+* [Reciprocity agreement between Georgia and Pennsylvania (2018)](Georgia_Pennsylvania_Reciprocity_Agreement.pdf)
 
 ## Disclaimer
 ### No Advice
