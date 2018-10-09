@@ -43,6 +43,7 @@ In some documents involving correspondance with private individuals, I have reda
 * [Reciprocity agreement between Georgia and Pennsylvania (2018)](Georgia_Pennsylvania_Reciprocity_Agreement.pdf)
 
 ### Other Correspondence
+* [Response to Probate Judge (2007)](20071128_Georgia_Probate_Judge_Cason_Inquiry.pdf)
 * [Regarding New Hampshire, South Carolina (2012)](20121105_Georgia_New_Hampshire_Reciprocity_South_Carolina_No_Reciprocity.pdf)
 * [Georgia and Ohio (Draft)(2012)](20120103_Georgia_Ohio_Memo.pdf)
 * [Georgia and North Carolina (2015)](20150504_Georgia_North_Carolina_Reciprocity.pdf)
@@ -58,7 +59,6 @@ In some documents involving correspondance with private individuals, I have reda
 * [Georgia and Virginia (Discussion)(2017)](20170331_Georgia_Virginia_Discussion.pdf)
 * [Georgia and West Virginia (2018)](20180711_Georgia_West_Virginia_Reciprocity.pdf)
 * [Georgia and Wisconsin (Inquiry) (2017)](20170412_Georgia_Wisconsin_Inquiry.pdf)
-* [Response to Probate Judge (2018)](20180928_Georgia_Probate_Judge_Cason_Inquiry.pdf)
 * [Miscellaneous Public Inquiry Response 1](Misc_Public_Inquiries.pdf)
 * [Miscellaneous Public Inquiry Response 2](Misc_Public_Inquiries_2.pdf)
 
