@@ -4,7 +4,7 @@ For general information about Georgia's Firearm Reciprocity, please see the foll
 * [Georgia Department of Public Safety](https://dps.georgia.gov/georgias-firearm-permit-reciprocity)
 * [GeorgiaCarry.org](https://www.georgiacarry.org/cms/georgias-carry-laws-explained/frequently-asked-questions/#Reciprocity)
 * [HandGunLaw.us](http://www.handgunlaw.us/states/georgia.pdf)
-* [O.C.G.A § 16-11-126(e)](https://law.justia.com/codes/georgia/2017/title-16/chapter-11/article-4/part-3/section-16-11-126/)
+* [O.C.G.A. § 16-11-126(e)](https://law.justia.com/codes/georgia/2017/title-16/chapter-11/article-4/part-3/section-16-11-126/)
 
 ## Purpose of this Site
 After researching Georgia's firearm license reciprocity laws and discussing this topic with various lawyers and law enforcement officials, I realized that there are two common topics of confusion:
