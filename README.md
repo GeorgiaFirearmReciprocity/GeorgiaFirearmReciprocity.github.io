@@ -71,9 +71,6 @@ In some documents involving correspondance with private individuals, I have reda
 * [Official Response Letter from September 2018](20180921_Open_Records_Response_Letter.pdf)
 * [Official Response Letter from October 2018](20181005_Open_Records_Response_Letter.pdf)
 
-## All Files from this Site
-You can directly access all files [here](https://github.com/GeorgiaFirearmReciprocity/GeorgiaFirearmReciprocity.github.io/).
-
 ## Disclaimer
 ### No Advice
 This site contains general information. The information is not advice, and should not be treated as such.
